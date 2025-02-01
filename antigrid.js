@@ -4,8 +4,6 @@
 // @namespace    https://github.com/List-KR/chzzk-anti-grid
 // @homepageURL  https://github.com/List-KR/chzzk-anti-grid
 // @supportURL   https://github.com/List-KR/chzzk-anti-grid/issues
-// @updateURL    https://cdn.jsdelivr.net/npm/@list-kr/chzzk-anti-grid@latest/dist/chzzk-anti-grid.user.js
-// @downloadURL  https://cdn.jsdelivr.net/npm/@list-kr/chzzk-anti-grid@latest/dist/chzzk-anti-grid.user.js
 // @license      MIT
 //
 // @version      2.2.0
